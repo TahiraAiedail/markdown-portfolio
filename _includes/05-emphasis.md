@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hot blooded but caring being.<br>
+
+:cookie: Have a cookie?~
