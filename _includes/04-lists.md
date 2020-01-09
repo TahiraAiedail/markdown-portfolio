@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Literature
+  * poetry
+  * novel
+  * epics
+* Music
+  * gothic
+  * celtic
+  * classical
+  * nightcore
