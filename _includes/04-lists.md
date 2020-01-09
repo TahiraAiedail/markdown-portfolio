@@ -1,0 +1,9 @@
+* Literature
+  * poetry
+  * novel
+  * epics
+* Music
+  * gothic
+  * celtic
+  * classical
+  * nightcore
